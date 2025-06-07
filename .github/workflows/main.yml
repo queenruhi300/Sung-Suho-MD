@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  build:
+  build:[20.x]
 
     runs-on: ubuntu-latest
 
